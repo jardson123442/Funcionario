@@ -4,6 +4,7 @@ public class Funcionario {
     private double salario;
     private String data;
     private String rg;
+    public int telefone;
 
     public String getNome() {
         return nome;
